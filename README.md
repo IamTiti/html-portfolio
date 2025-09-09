@@ -1,2 +1,2 @@
 # html-portfolio
-My Journery to Becoming a Web Developer
+My Journey to Becoming a Web Developer
